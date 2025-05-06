@@ -1,0 +1,10 @@
+{
+	"StudentData" : {
+		"dataName" : "Alexander Tran",
+		"dataID" : "991500919",
+		"dataLogin" : "tran62",
+		"dataProgram" : "Computer Programming",
+		"dataHome" : "Canada",
+		"dataImg" : "../images/alexandertran.JPG"
+	}
+}
